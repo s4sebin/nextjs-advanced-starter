@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "setup": "node config/setup.js"
+    "setup": "node config/setup.mjs"
   },
   "dependencies": {
     "react": "^18",
