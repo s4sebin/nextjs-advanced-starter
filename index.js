@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const { execSync } = require("child_process");
+const execSync = require("child_process").execSync;
 
 const questions = [
   {
